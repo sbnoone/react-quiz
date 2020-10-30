@@ -12,5 +12,5 @@ One of my pet projects. Hosted on firebase.
 - Axios
 - Formik
 - Yup
-- Material-UI
+- Material-ui
 - Firebase rest auth

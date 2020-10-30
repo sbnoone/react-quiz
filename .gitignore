@@ -9,6 +9,7 @@
 .package-lock.json
 .quizes.json
 .gitignore
+.firebase
 
 # testing
 /coverage
